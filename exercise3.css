@@ -1,0 +1,48 @@
+
+.sidepanel {
+    background-color: #FFB6C1;
+    width: 300px;
+    height: 650;
+    margin: 0;
+    position: absolute;
+    right: 300px
+
+}
+
+p.sidepanel {
+    text-align: center;
+    float: right;
+    position: static;
+
+}
+
+.header {
+    background-color: #228B22;
+    height: 50;
+    width: auto;
+    
+}
+
+img.map {
+    width: 630px;
+    height: 650px;
+    position: fixed;
+}
+
+.footer {
+   position: absolute;
+   bottom: 150;
+   height: 60px;
+   width: 100%;
+   background-color: green;
+   color: black;
+   text-align: center;
+}
+
+img.sprite {
+    position: absolute;
+    bottom: 600;
+    right: 600;
+}
+
+
